@@ -8,8 +8,6 @@ Drage and Drop Media is a web application that allows users to create and manage
 - [Features](#features)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Usage](#usage)
 - [Authentication](#authentication)
 - [Gallery](#gallery)
 - [Search](#search)
@@ -19,7 +17,7 @@ Drage and Drop Media is a web application that allows users to create and manage
 
 ## Demo
 
-<!-- You can check out a live demo of the DnD Gallery [here](https://thebishopgallery.vercel.app/). -->
+You can check out a live demo [here](https://hng-stage3.mfon.dev/).
 
 ## Features
 
@@ -27,8 +25,7 @@ Drage and Drop Media is a web application that allows users to create and manage
 - **Authentication**: Secure user authentication using Firebase.
 - **Image Labeling**: Organize your images with labels and titles.
 - **Search Functionality**: Quickly find images by searching for titles or labels.
-- **Static Image Management**: Manage your image collections without the need for external APIs.
-- **NFT Concept**: Explore a gallery with an NFT (Non-Fungible Token) concept.
+
 
 ## Getting Started
 
@@ -40,7 +37,7 @@ Before you begin, ensure you have met the following requirements:
 - A Firebase project set up with authentication enabled
 - Images for your gallery (static or hosted externally)
 
-### Usage
+
 
 ## Authentication
 
@@ -79,4 +76,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 4. Push your changes to your forked repository.
 5. Submit a pull request.
 
-## License
+
