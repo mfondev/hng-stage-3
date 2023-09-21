@@ -1,6 +1,6 @@
-# DnD Gallery
+# Drage and Drop Media
 
-DnD Gallery is a web application that allows users to create and manage image galleries with drag-and-drop functionality. It's designed to make it easy to organize and customize your image collections.
+Drage and Drop Media is a web application that allows users to create and manage image galleries with drag-and-drop functionality. It's designed to make it easy to organize and customize your image collections.
 
 ## Table of Contents
 
@@ -19,7 +19,7 @@ DnD Gallery is a web application that allows users to create and manage image ga
 
 ## Demo
 
-You can check out a live demo of the DnD Gallery [here](https://thebishopgallery.vercel.app/).
+<!-- You can check out a live demo of the DnD Gallery [here](https://thebishopgallery.vercel.app/). -->
 
 ## Features
 
@@ -39,26 +39,6 @@ Before you begin, ensure you have met the following requirements:
 - [Node.js](https://nodejs.org/) installed
 - A Firebase project set up with authentication enabled
 - Images for your gallery (static or hosted externally)
-
-### Installation
-
-1. Clone the repository:
-
-   ```sh
-   git clone https://github.com/AKIN-THOMAS/DnD-Gallery.git
-
-   ```
-
-2. Go into the directory
-    ```sh
-    cd dnd-gallery
-    ```
-     
-
-3. Install Dependencies
-    ```sh
-    npm install
-    ```
 
 ### Usage
 
@@ -83,7 +63,7 @@ Use the search feature to find images by title or label. Simply enter your searc
 
 ### Dependencies
 
-DnD Gallery relies on the following key dependencies:
+ Drage and Drop Media relies on the following key dependencies:
 
 `Chakra UI`: A simple, modular, and accessible component library for React.
 `Firebase`: A platform for developing web and mobile applications.
